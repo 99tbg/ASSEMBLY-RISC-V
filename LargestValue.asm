@@ -1,3 +1,4 @@
+#done
 #Given two integers stored in the memory (in the data segment), print the biggest.
 .data
 	.word 45
