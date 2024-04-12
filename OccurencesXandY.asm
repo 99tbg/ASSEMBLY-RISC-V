@@ -1,3 +1,4 @@
+#done
 #count the number of numbers of v that are equal to x or equal to y.
 
 .data	
