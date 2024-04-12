@@ -1,4 +1,4 @@
-#done
+#done 
 #prints the sum of the items of the linked list 
 
 .data
