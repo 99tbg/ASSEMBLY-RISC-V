@@ -1,3 +1,4 @@
+#done
 #LOOP: In memory, an array consists in a word after the other.
  #Let's make a loop that sums the elements of the array. 
  #To do that, we need to understaqnd when does the loop finish.
