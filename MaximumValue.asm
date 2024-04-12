@@ -1,3 +1,4 @@
+#done
 #EXERCISE 6: Write a program to find the maximum value in an array of integers.
 
 .data
