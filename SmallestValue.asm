@@ -1,3 +1,4 @@
+#done
 #EXERCISE: Find the smallest value of the array and print it
 .data
 	.word 8
