@@ -1,5 +1,5 @@
 #done 
-#prints the sum of the items of the linked list 
+ #prints the sum of the items of the linked list 
 
 .data
 lista: .word nodo1
