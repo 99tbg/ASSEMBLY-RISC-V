@@ -1,3 +1,4 @@
+#done
 #Exercise 20: Given an integer x and an array of integers y, 
 #print the number of times x appears in y.
 
