@@ -1,3 +1,4 @@
+#done
 #Exercise 3 for midterm 
 #Sum elements of a linked list
 
