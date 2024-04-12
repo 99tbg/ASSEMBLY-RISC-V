@@ -1,3 +1,4 @@
+#done
 #EXERCISE 2 FOR MIDDTERM:
 #Pint the number of zeros in an array
 
