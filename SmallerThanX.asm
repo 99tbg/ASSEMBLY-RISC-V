@@ -1,3 +1,5 @@
+
+#done 
 #EXERCISE 4 FOR MIDTERM
 #Print the number of item in "a" smaller than the number x
 
