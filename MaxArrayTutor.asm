@@ -1,3 +1,4 @@
+#done
 #Assume that we want to find the max of all the integers inside an array
 .data
 	.word 6
