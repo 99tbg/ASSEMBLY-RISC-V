@@ -1,3 +1,4 @@
+#done
 #given an array of integers, and an integer, print the n. of integers 
 #strictly smaller than the integer given in input
 .data
