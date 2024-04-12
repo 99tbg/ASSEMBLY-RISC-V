@@ -1,3 +1,4 @@
+#done
 	#EXERCISE 3:
 #Write a program that computes the length of a string and prints it to the console
 
