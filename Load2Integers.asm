@@ -1,3 +1,4 @@
+#done
 #EXERCISE 1:
 #Write the code to load from memory two integers,
 #sum them up and store the result into the memory
