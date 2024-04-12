@@ -1,3 +1,5 @@
+
+#done
 #Exercise 22: Given a linked list of integers lista, print the sum of the items in the list.
 
 .data
