@@ -1,3 +1,4 @@
+#done
 #Exercise 19: Given an integer x and an array of integers y, 
 #print 1 if x is present in y, 0 otherwise.
 
