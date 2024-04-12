@@ -1,3 +1,4 @@
+#done
 #EXERCISE: 
 #find the occurences of 1 in a linked list
 .data
