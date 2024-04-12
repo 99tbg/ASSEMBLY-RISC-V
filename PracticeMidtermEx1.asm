@@ -1,4 +1,4 @@
-
+#done
 
 .data	
 	n: .word 8
