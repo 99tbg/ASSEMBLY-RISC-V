@@ -1,4 +1,5 @@
-## Write a function that, given a linked list as input, 
+#done
+# Write a function that, given a linked list as input, 
 #returns the address of the last node as output.
 
 .data
