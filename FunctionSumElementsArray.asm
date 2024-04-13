@@ -1,3 +1,4 @@
+#done
 #Exercise 14: Write an iterative function 
 #to sum up all the values of an array of integers.
 
