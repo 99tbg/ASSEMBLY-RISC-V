@@ -1,3 +1,4 @@
+#done
 #PRACTICE for Midterm
 
 #Compute the maximum common divisor (MCD)
