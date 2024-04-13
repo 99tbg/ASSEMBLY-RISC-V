@@ -1,3 +1,4 @@
+
 #Remove negative items from the list [8, 5, -2, 5]
 #We know that the first item is positive
 
