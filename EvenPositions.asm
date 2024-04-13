@@ -1,3 +1,4 @@
+#done
 #Exercise 21: Given an array of integers y, 
 #print all the items of even position in the array.
 #index starts from 0
