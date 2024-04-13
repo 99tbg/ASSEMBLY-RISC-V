@@ -1,3 +1,4 @@
+#done
 #EVEN OR ODD ( last year exercise)
 .data
 	.word 66 #0x10010
