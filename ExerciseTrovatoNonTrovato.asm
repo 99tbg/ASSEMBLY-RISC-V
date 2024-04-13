@@ -1,3 +1,4 @@
+#done
 #EXERCISE 1 FOR MIDTERM
 #Print "Trovato" if the first word (52) is in the array, otherwise print "Non Trovato"
 
