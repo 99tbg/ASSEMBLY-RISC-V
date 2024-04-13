@@ -1,3 +1,4 @@
+#done
 #Exercise 8: 
 #Write a program to count and print how many nodes a linked list has.
 #3 -> 5 -> 76 -> 8
