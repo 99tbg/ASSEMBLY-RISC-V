@@ -1,3 +1,4 @@
+#done
 #SUM ARRAY
 .data
 	.word 5
