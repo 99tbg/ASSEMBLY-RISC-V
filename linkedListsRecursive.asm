@@ -1,3 +1,4 @@
+#done
 #I want to count the nodes of a linked list
 .data
 n01: .word 7, n02
