@@ -1,3 +1,4 @@
+#done
 #EXERCISE: Compute the trace of a
 
 .data 
