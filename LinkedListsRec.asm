@@ -1,3 +1,4 @@
+#done
 #LINKED LISTS [7, 11, -2, 8] #RECURSION
 #return the number of elements of the linked list, the length.
 .data 0x10010000
