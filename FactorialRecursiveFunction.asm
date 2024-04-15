@@ -1,3 +1,4 @@
+#done
 .text
 	addi a0, zero, 5
 	jal ra, f
