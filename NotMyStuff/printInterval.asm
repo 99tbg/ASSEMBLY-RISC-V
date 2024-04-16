@@ -1,3 +1,4 @@
+#done
 #print all the numbers in the interval [x, y); in this case we have to print 6, 7, 8, 9, 10
 
 .data 
