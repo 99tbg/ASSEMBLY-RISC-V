@@ -1,3 +1,4 @@
+#done
 #print the number of times x appears in the array y (in this case 0) 
 .data
 x: .word 1 #just a number
