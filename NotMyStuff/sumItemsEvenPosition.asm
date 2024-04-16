@@ -1,3 +1,4 @@
+#done
 #print the sum of the items of even position in the array 
 .data
 x: .word 1 #just a number
