@@ -1,3 +1,4 @@
+#done
 #EXERCISE 2: 
 #Write a program that loads an integer and prints "zero", 
 #if the integer is zero, or "non zero" otherwise.
